@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywaFXG5jGZQo5SLi0cfhLY8bqOUnMcl1JipU9J6rn8MoNbxWEMPDPAik01GFtCvUS+i+hOfCFcvuH6A/vHheNQ==",
+  "success": true,
+  "projectFilePath": "/Users/nick/Projects/apinew/apinew/apinew.csproj",
+  "expectedPackageFiles": [
+    "/Users/nick/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
